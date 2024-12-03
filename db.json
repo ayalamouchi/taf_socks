@@ -1,0 +1,25 @@
+
+{
+  "product": "chaussettes",
+  "link": "https://vuejs.org/",
+  "selectedVariant": 0,
+  "inventory": 8,
+  "details": ["50% coton", "20% polyester", "30% laine"],
+  "variants": [
+    {
+      "id": 2001,
+      "color": "green",
+      "image": "../assets/socks_green.jpg",
+      "quantity": 50
+    },
+    {
+      "id": 2002,
+      "color": "blue",
+      "image": "../assets/socks_blue.jpg",
+      "quantity": 0
+    }
+  ],
+  "sizes": [36, 38, 40, 42, 44],
+  "reviews": [],
+  "cart": 0
+}
